@@ -3,7 +3,7 @@ title: 企业级 Docker Registry--harbor安装和简单使用
 categories: Docker
 tags: [Docker,Docker Registry]
 ---
-简单的说，Harbor 是一个企业级的 Docker Registry，可以实现 images 的私有存储和日志统计权限控制等功能，并支持创建多项目(Harbor 提出的概念)，基于官方 Registry V2 实现。
+>简单的说，Harbor 是一个企业级的 Docker Registry，可以实现 images 的私有存储和日志统计权限控制等功能，并支持创建多项目(Harbor 提出的概念)，基于官方 Registry V2 实现。
 
 ## 安装docker
 参考官方文档
@@ -12,7 +12,7 @@ tags: [Docker,Docker Registry]
 ## 搭建Harbor
 ### 下载
 	wget https://github.com/vmware/harbor/releases/download/v1.1.2/harbor-online-installer-v1.1.2.tgz
-### 解压 
+### 解压
 	tar zvxf harbor-online-installer-v1.1.2.tgz
 ### 修改配置
 	cd harbor
