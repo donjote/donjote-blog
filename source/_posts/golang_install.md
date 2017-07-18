@@ -1,5 +1,6 @@
 ---
 title: Golang简介与环境搭建
+date: 2017-07-13
 categories: Golang
 tags: [Golang]
 ---

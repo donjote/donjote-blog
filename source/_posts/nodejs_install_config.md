@@ -1,5 +1,6 @@
 ---
 title: Nodejs安装并配置淘宝镜像
+date: 2017-07-05
 categories: Nodejs
 tags: [Nodejs,npm镜像]
 ---

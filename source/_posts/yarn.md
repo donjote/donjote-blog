@@ -1,5 +1,6 @@
 ---
 title: Yarn介绍
+date: 2017-07-10
 categories: Nodejs
 tags: [Nodejs,Yarn]
 ---

@@ -1,5 +1,6 @@
 ---
 title: etcd概述和使用场景
+date: 2017-07-11
 categories: 微服务
 tags: [微服务,etcd,服务发现]
 ---

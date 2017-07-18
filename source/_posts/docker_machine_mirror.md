@@ -1,5 +1,6 @@
 ---
 title: 在 Docker Machine 中使用 Mirror 服务
+date: 2017-07-11
 categories: docker
 tags: [docker,docker machine]
 ---

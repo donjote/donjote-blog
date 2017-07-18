@@ -1,5 +1,6 @@
 ---
 title: TensorFlow入门：简介
+date: 2017-07-14
 categories: 深度学习
 tags: [深度学习,神经网络,TensorFlow]
 ---

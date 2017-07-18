@@ -1,5 +1,6 @@
 ---
 title: 幂等性
+date: 2017-07-07
 categories: 架构
 tags: [架构,分布式架构]
 ---

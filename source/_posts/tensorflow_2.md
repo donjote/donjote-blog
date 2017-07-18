@@ -1,10 +1,12 @@
 ---
 title: TensorFlow入门：安装
+date: 2017-07-14
 categories: 深度学习
 tags: [深度学习,神经网络,TensorFlow]
 ---
 ## 基于 Docker 的安装
 >首先, [安装 Docker](https://docs.docker.com/engine/installation/). 一旦 Docker 已经启动运行, 可以通过命令启动一个容器:
+
 >   
     $ docker run -it --name tensorflow -p 8888:8888 tensorflow/tensorflow
 

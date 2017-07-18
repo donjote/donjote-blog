@@ -1,5 +1,6 @@
 ---
 title: Weex、React Native 对比
+date: 2017-07-04
 categories: 移动开发
 tags: [Weex,React Native]
 ---

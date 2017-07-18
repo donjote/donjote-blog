@@ -1,5 +1,6 @@
 ---
 title: Golang包管理
+date: 2017-07-13
 categories: Golang
 tags: [Golang]
 ---

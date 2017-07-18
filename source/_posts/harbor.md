@@ -1,5 +1,6 @@
 ---
 title: 企业级 Docker Registry--harbor安装和简单使用
+date: 2017-07-04
 categories: Docker
 tags: [Docker,Docker Registry]
 ---
