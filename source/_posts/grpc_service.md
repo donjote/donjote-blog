@@ -1,6 +1,6 @@
 ---
 title: gRPC服务方法的定义
-date: 2017-08-2５
+date: 2017-08-24
 categories: gRPC
 tags: [gRPC,RPC]
 ---
