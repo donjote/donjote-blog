@@ -1,8 +1,8 @@
 ---
 title: 微服务简介
 date: 2017-07-04
-categories: 微服务
-tags: [微服务,架构,单体应用]
+categories: 架构
+tags: [微服务,架构]
 ---
 ## Monolithic架构
 > ![Monolithic架构](1.png)

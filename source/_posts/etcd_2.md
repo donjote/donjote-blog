@@ -1,7 +1,7 @@
 ---
 title: 使用docker-machine搭建etcd集群
 date: 2017-07-11
-categories: 微服务
+categories: 架构
 tags: [微服务,etcd,服务发现]
 ---
 ## 创建Etcd集群

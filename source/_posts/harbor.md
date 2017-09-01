@@ -1,8 +1,8 @@
 ---
 title: 企业级 Docker Registry--harbor安装和简单使用
 date: 2017-07-04
-categories: Docker
-tags: [Docker,Docker Registry]
+categories: 容器
+tags: [docker]
 ---
 >简单的说，Harbor 是一个企业级的 Docker Registry，可以实现 images 的私有存储和日志统计权限控制等功能，并支持创建多项目(Harbor 提出的概念)，基于官方 Registry V2 实现。
 

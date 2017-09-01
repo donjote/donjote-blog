@@ -1,7 +1,7 @@
 ---
 title: gRPC入门简介
 date: 2017-08-23
-categories: gRPC
+categories: 架构
 tags: [gRPC,RPC]
 ---
 ## 简介

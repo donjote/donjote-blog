@@ -1,7 +1,7 @@
 ---
 title: docker简介
 date: 2017-08-30
-categories: docker
+categories: 容器
 tags: [docker]
 ---
 ## 什么是Docker

@@ -1,7 +1,7 @@
 ---
 title: gRPC服务方法的定义
 date: 2017-08-24
-categories: gRPC
+categories: 架构
 tags: [gRPC,RPC]
 ---
 ## 服务定义
