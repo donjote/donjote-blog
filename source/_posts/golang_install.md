@@ -5,7 +5,7 @@ categories: Golang
 tags: [Golang]
 ---
 ## Golang简介
->Go 是 2009 年发布的一种简单的并行开发，且跨平台的类 C 语言。由于其强大的并行性，很适合用于网络开发中
+Go 是 2009 年发布的一种简单的并行开发，且跨平台的类 C 语言。由于其强大的并行性，很适合用于网络开发中
 ### 思想
 + Less can be more
 + 大道至简,小而蕴真
@@ -33,22 +33,25 @@ tags: [Golang]
 + 高性能/高效开发
 
 ## 环境搭建
->### 安装
->   
+### 安装
+```   
     $ wget https://storage.googleapis.com/golang/go1.8.3.linux-amd64.tar.gz
     $ tar -C /usr/local -xzf go1.8.3.linux-amd64.tar.gz  
+```
 ### 环境变量
->   
+```
     $ vim /etc/profile
+```
 添加对应的GOROOT和GOROOT的配置环境
->   
+```
     export GOROOT=/usr/local/go
     export GOPATH=$HOME/Projects/golang
     export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
->之后，source /etc/profile 使得其配置文件有效.
+```
+之后，source /etc/profile 使得其配置文件有效.
 
 ## 验证
->   
+``` 
     $ go env
     GOARCH="amd64"
     GOBIN=""
@@ -71,3 +74,4 @@ tags: [Golang]
     CGO_CXXFLAGS="-g -O2"
     CGO_FFLAGS="-g -O2"
     CGO_LDFLAGS="-g -O2"
+```
