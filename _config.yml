@@ -8,11 +8,12 @@ subtitle:
 description:
 author: Donjote
 language:
+  - zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://donjote.github.io
+url: http://donjote.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +64,31 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: concise
+theme: indigo
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
+  
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
